@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class WeaponType {
+public enum WeaponType {
+    THROWING, FIREARMS, LASER;
 }
